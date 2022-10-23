@@ -1,0 +1,149 @@
+[
+  {
+    "Day": 1,
+    "StartTimeStr": "00:00:00",
+    "EndTimeStr": "09:00:59",
+    "ValueToPayPerHour": 25,
+    "CurrencyType": 1
+  },
+  {
+    "Day": 1,
+    "StartTimeStr": "09:01:00",
+    "EndTimeStr": "18:00:59",
+    "ValueToPayPerHour": 15,
+    "CurrencyType": 1
+  },
+  {
+    "Day": 1,
+    "StartTimeStr": "18:01:00",
+    "EndTimeStr": "23:59:59",
+    "ValueToPayPerHour": 20,
+    "CurrencyType": 1
+  },
+  {
+    "Day": 2,
+    "StartTimeStr": "00:00:00",
+    "EndTimeStr": "09:00:59",
+    "ValueToPayPerHour": 25,
+    "CurrencyType": 1
+  },
+  {
+    "Day": 2,
+    "StartTimeStr": "09:01:00",
+    "EndTimeStr": "18:00:59",
+    "ValueToPayPerHour": 15,
+    "CurrencyType": 1
+  },
+  {
+    "Day": 2,
+    "StartTimeStr": "18:01:00",
+    "EndTimeStr": "23:59:59",
+    "ValueToPayPerHour": 20,
+    "CurrencyType": 1
+  },
+  {
+    "Day": 3,
+    "StartTimeStr": "00:00:00",
+    "EndTimeStr": "09:00:59",
+    "ValueToPayPerHour": 25,
+    "CurrencyType": 1
+  },
+  {
+    "Day": 3,
+    "StartTimeStr": "09:01:00",
+    "EndTimeStr": "18:00:59",
+    "ValueToPayPerHour": 15,
+    "CurrencyType": 1
+  },
+  {
+    "Day": 3,
+    "StartTimeStr": "18:01:00",
+    "EndTimeStr": "23:59:59",
+    "ValueToPayPerHour": 20,
+    "CurrencyType": 1
+  },
+  {
+    "Day": 4,
+    "StartTimeStr": "00:00:00",
+    "EndTimeStr": "09:00:59",
+    "ValueToPayPerHour": 25,
+    "CurrencyType": 1
+  },
+  {
+    "Day": 4,
+    "StartTimeStr": "09:01:00",
+    "EndTimeStr": "18:00:59",
+    "ValueToPayPerHour": 15,
+    "CurrencyType": 1
+  },
+  {
+    "Day": 4,
+    "StartTimeStr": "18:01:00",
+    "EndTimeStr": "23:59:59",
+    "ValueToPayPerHour": 20,
+    "CurrencyType": 1
+  },
+  {
+    "Day": 5,
+    "StartTimeStr": "00:00:00",
+    "EndTimeStr": "09:00:59",
+    "ValueToPayPerHour": 25,
+    "CurrencyType": 1
+  },
+  {
+    "Day": 5,
+    "StartTimeStr": "09:01:00",
+    "EndTimeStr": "18:00:59",
+    "ValueToPayPerHour": 15,
+    "CurrencyType": 1
+  },
+  {
+    "Day": 5,
+    "StartTimeStr": "18:01:00",
+    "EndTimeStr": "23:59:59",
+    "ValueToPayPerHour": 20,
+    "CurrencyType": 1
+  },
+  {
+    "Day": 6,
+    "StartTimeStr": "00:00:00",
+    "EndTimeStr": "09:00:59",
+    "ValueToPayPerHour": 30,
+    "CurrencyType": 1
+  },
+  {
+    "Day": 6,
+    "StartTimeStr": "09:01:00",
+    "EndTimeStr": "18:00:59",
+    "ValueToPayPerHour": 20,
+    "CurrencyType": 1
+  },
+  {
+    "Day": 6,
+    "StartTimeStr": "18:01:00",
+    "EndTimeStr": "23:59:59",
+    "ValueToPayPerHour": 25,
+    "CurrencyType": 1
+  },
+  {
+    "Day": 7,
+    "StartTimeStr": "00:00:00",
+    "EndTimeStr": "09:00:59",
+    "ValueToPayPerHour": 30,
+    "CurrencyType": 1
+  },
+  {
+    "Day": 7,
+    "StartTimeStr": "09:01:00",
+    "EndTimeStr": "18:00:59",
+    "ValueToPayPerHour": 20,
+    "CurrencyType": 1
+  },
+  {
+    "Day": 7,
+    "StartTimeStr": "18:01:00",
+    "EndTimeStr": "23:59:59",
+    "ValueToPayPerHour": 25,
+    "CurrencyType": 1
+  }
+]
